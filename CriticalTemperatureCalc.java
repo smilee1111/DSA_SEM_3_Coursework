@@ -1,3 +1,4 @@
+package DSA_SEM_3_Coursework;
 public class CriticalTemperatureCalc {
     public static void main(String[] args) {
         // Test cases
